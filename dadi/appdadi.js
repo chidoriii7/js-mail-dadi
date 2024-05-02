@@ -11,6 +11,7 @@ let humanPlayer = Math.floor(Math.random() * dado.length + 1)
 let computerPlayer = Math.floor(Math.random() * dado.length +1)
 
 // - fare due tiri prendendo due numeri randomici tra quelli che sono dentro l'array
+
 // for (let tiri = 0; tiri <= 0; tiri++) {
 
 //     let humanPlayer = Math.floor(Math.random() * dado.length + 1)
